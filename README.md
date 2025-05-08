@@ -1,10 +1,4 @@
-<!-- RAVI TEJA AVUTAPALLI - 1002163445
-RENISH AVAIYA – 1002197922
-JERAN JOEL BELAVENDRAN – 1002233639
-PRATHYUSHA AITHA – 1002200728
-PAVAN BABU BHEESETTI - 1002207463 -->
- 
-Note : Use dummy Credentials in order to check and view the work of frontend part.
+
 
 
 # React + Vite
@@ -33,5 +27,3 @@ If you are developing a production application, we recommend using TypeScript an
 # 3. npm build
  
 ## This will run a production level build for deployement.
- 
-# https://rxa3445.uta.cloud/
